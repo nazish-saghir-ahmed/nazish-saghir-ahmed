@@ -15,12 +15,12 @@
 
 ## About Me
 
-- 🎓 BS Cybersecurity student at **UET Lahore**, building a solid foundation in both software development and security
-- 🛠️ Comfortable with **Python, Java, SQL**, and picking up object-oriented design as I go
-- 🔐 Practicing offensive security hands-on through **Hack The Box** and **TryHackMe** — currently sharpening skills in web app testing with **Burp Suite**
-- 🤖 Exploring **AI and LLMs**, using them both as a learning aid and as something I build with
-- 📈 This profile is a real, ongoing log — no polished finish line, just consistent progress
-- 💬 Open to connecting with people working in security, dev, or AI who want to learn or build together
+-  BS Cybersecurity student at **UET Lahore**, building a solid foundation in both software development and security
+-  Comfortable with **Python, Java, SQL**, and picking up object-oriented design as I go
+-  Practicing offensive security hands-on through **Hack The Box** and **TryHackMe** — currently sharpening skills in web app testing with **Burp Suite**,**nmap**,**wireshark**
+-  Exploring **AI and LLMs**, using them both as a learning aid and as something I build with
+-  This profile is a real, ongoing log — no polished finish line, just consistent progress
+-  Open to connecting with people working in security, dev, or AI who want to learn or build together
 
 <br/>
 
