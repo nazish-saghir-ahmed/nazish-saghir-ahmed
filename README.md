@@ -2,7 +2,7 @@
 
 <img src="banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=BS+Cybersecurity+%40+UET+Lahore;Learning+Python+%E2%86%92+AI+%E2%86%92+Offensive+Security;Currently+grinding+on+HackTheBox+%26+TryHackMe;Still+learning.+Still+building.+Still+breaking+things.&font=Fira%20Code&center=true&width=650&height=45&color=C084FC&vCenter=true&size=22&pause=1500&background=00000000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=BS+Cybersecurity+%40+UET+Lahore;Python+%E2%86%92+AI+%E2%86%92+Offensive+Security;Working+on+Java%2C+OOP+%26+Applied+AI;Building+in+public%2C+one+project+at+a+time&font=Fira%20Code&center=true&width=650&height=45&color=000000&vCenter=true&size=22&pause=1500&background=00000000" alt="Typing SVG" />
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 ## About Me
 
-**BS Cybersecurity student at UET Lahore**, coming from a non-technical background and building my way from first line of Python to offensive security, one project at a time.
+**BS Cybersecurity student at UET Lahore**, building a foundation in software development and offensive security from the ground up.
 
-This repo is my **public learning log** — real projects, real mistakes, real progress. Nothing here is staged to look perfect. It's staged to show growth.
+This repository is my public learning log — real projects, honest progress, and a record of how my skills are developing over time.
 
-> *AI helps me move faster. Understanding helps me move forward.*
+> *AI helps me move faster. Understanding is what makes the progress real.*
 
 <br/>
 
@@ -28,10 +28,11 @@ This repo is my **public learning log** — real projects, real mistakes, real p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,bash,linux,kali,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-3776AB?style=for-the-badge&labelColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=1a1a1a"/>
@@ -57,7 +58,7 @@ OSINT threat-intel dashboard pulling live IOCs from ThreatFox (abuse.ch) with se
 <td width="50%" valign="top">
 
 ### AI Projects
-LLM, RAG, and AI-assisted app experiments.
+LLM, RAG, and AI-assisted application experiments.
 
 `Coming Soon`
 
@@ -67,15 +68,15 @@ LLM, RAG, and AI-assisted app experiments.
 <td width="50%" valign="top">
 
 ### CTF Write-ups
-Offensive security notes from HTB / THM boxes.
+Documented offensive security notes from HTB / THM machines.
 
 `Coming Soon`
 
 </td>
 <td width="50%" valign="top">
 
-### More Builds
-Scripts and tools built while learning.
+### Java & OOP Projects
+Applied object-oriented design projects built while strengthening Java fundamentals.
 
 `Coming Soon`
 
@@ -91,6 +92,7 @@ Scripts and tools built while learning.
 
 ```text
 Python           ████████░░  80%
+Java / OOP       ███░░░░░░░  30%
 Cybersecurity    ███░░░░░░░  30%
 AI / LLMs        ███░░░░░░░  30%
 Offensive Sec    ██░░░░░░░░  20%
@@ -108,13 +110,14 @@ Offensive Sec    ██░░░░░░░░  20%
 - Learn Python fundamentals
 - Get hands-on with Kali Linux & CLI
 - Start solving HTB / THM machines
-- Explore Burp Suite for web app testing
+- Explore Burp Suite for web application testing
 
 </td>
 <td valign="top" width="50%">
 
 **Next**
-- Go deeper on networking + Linux internals
+- Strengthen Java and object-oriented programming
+- Go deeper on networking and Linux internals
 - Ship more AI-powered projects
 - Document CTF write-ups properly
 - Contribute to open-source security tools
@@ -127,7 +130,7 @@ Offensive Sec    ██░░░░░░░░  20%
 
 ## AI-Assisted Learning
 
-AI is part of how I learn — not a replacement for it. I use it to understand unfamiliar concepts fast, debug broken code, and get unstuck without losing the thread of *why* something works.
+AI is part of how I learn — not a replacement for it. I use it to understand unfamiliar concepts quickly, debug code, and stay unstuck without losing sight of *why* something works.
 
 > The goal isn't to generate code. The goal is to understand it.
 
@@ -137,20 +140,20 @@ AI is part of how I learn — not a replacement for it. I use it to understand u
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=scriptkiddiee0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=C084FC&icon_color=C084FC&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptkiddiee0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=c9d1d9" width="35.6%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nazish-saghir-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazish-saghir-ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="35.6%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptkiddiee0&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=F59E0B&currStreakLabel=C084FC" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-saghir-ahmed&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" width="60%"/>
 
 </div>
 
 <br/>
 
-## Why `scriptkiddiee0`?
+## About This Journey
 
-Running someone else's tool and understanding what it's actually doing under the hood are two different things. I'm early in that journey — so instead of hiding the "beginner" label, I'm wearing it while I close the gap.
+Running someone else's tool and understanding what it's actually doing under the hood are two different things. I'm building that understanding deliberately — learning in public rather than presenting a polished-looking finish line.
 
 **Everyone starts somewhere. This is where I started — and where I keep going.**
 
@@ -159,14 +162,7 @@ Running someone else's tool and understanding what it's actually doing under the
 <div align="center">
 
 **This repository grows as I grow.**
-*Still learning. Still building. Still breaking things — on purpose, this time.*
 
-If something here is useful, a star helps more than you'd think.
-
-<br/>
-
-```
-[ EOF ] — connection closed by scriptkiddiee0
-```
+If something here is useful, a star is appreciated.
 
 </div>
