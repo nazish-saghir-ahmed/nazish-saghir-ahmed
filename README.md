@@ -2,7 +2,7 @@
 
 <img src="banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=BS+Cybersecurity+%40+UET+Lahore;Python+%E2%86%92+AI+%E2%86%92+Offensive+Security;Working+on+Java%2C+OOP+%26+Applied+AI;Building+in+public%2C+one+project+at+a+time&font=Fira%20Code&center=true&width=650&height=45&color=000000&vCenter=true&size=22&pause=1500&background=00000000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=BS+Cybersecurity+%40+UET+Lahore;Python+%E2%86%92+AI+%E2%86%92+Offensive+Security;Working+on+Java%2C+SQL+%26+Applied+AI;Building+in+public%2C+one+project+at+a+time&font=Fira%20Code&center=true&width=650&height=45&color=000000&vCenter=true&size=22&pause=1500&background=00000000" alt="Typing SVG" />
 
 <br/>
 
@@ -13,11 +13,22 @@
 
 <br/>
 
+## About Me
+
+- 🎓 BS Cybersecurity student at **UET Lahore**, building a solid foundation in both software development and security
+- 🛠️ Comfortable with **Python, Java, SQL**, and picking up object-oriented design as I go
+- 🔐 Practicing offensive security hands-on through **Hack The Box** and **TryHackMe** — currently sharpening skills in web app testing with **Burp Suite**
+- 🤖 Exploring **AI and LLMs**, using them both as a learning aid and as something I build with
+- 📈 This profile is a real, ongoing log — no polished finish line, just consistent progress
+- 💬 Open to connecting with people working in security, dev, or AI who want to learn or build together
+
+<br/>
+
 ## Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,bash,linux,kali,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,bash,linux,kali,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
@@ -50,6 +61,7 @@
 ```text
 Python           ████████░░  80%
 Java / OOP       ███░░░░░░░  30%
+SQL              ███░░░░░░░  30%
 Cybersecurity    ███░░░░░░░  30%
 AI / LLMs        ███░░░░░░░  30%
 Offensive Sec    ██░░░░░░░░  20%
