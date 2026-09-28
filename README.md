@@ -44,21 +44,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazish-saghir-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazish-saghir-ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="35.6%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-saghir-ahmed&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" width="60%"/>
-
-</div>
-
-<br/>
-
 ## Current Progress
 
 ```text
@@ -86,12 +71,27 @@ AI is reshaping both sides of security. Attackers use it to move faster, and def
 |---|---|---|
 | Offensive security and web app testing | How LLMs actually work under the hood | Prompt injection and LLM app vulnerabilities |
 | Burp Suite, nmap, Wireshark | Applied AI with Python | AI-assisted recon and security tooling |
-| Hack The Box and TryHackMe labs | Building projects with LLMs | Thinking like an attacker about AI systems |
+| Hack The Box and TryHackMe labs | Building small projects with LLMs | Thinking like an attacker about AI systems |
 
 > *The best way to secure a system is to understand how it breaks. AI systems are no exception.*
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Focus-Security%20%C3%97%20AI-8B5CF6?style=for-the-badge&labelColor=1a1a1a"/>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nazish-saghir-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazish-saghir-ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="35.6%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-saghir-ahmed&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" width="60%"/>
 
 </div>
