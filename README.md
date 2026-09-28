@@ -69,3 +69,29 @@ Cybersecurity    ███░░░░░░░  30%
 AI / LLMs        ███░░░░░░░  30%
 Offensive Sec    ██░░░░░░░░  20%
 ```
+
+<br/>
+
+## Security × AI
+
+<div align="center">
+
+**Security is where I work. AI is where I'm heading.**
+
+</div>
+
+AI is reshaping both sides of security. Attackers use it to move faster, and defenders have to understand it to keep up. I'm building skills at that intersection instead of picking a side.
+
+| Where I work | Where I'm learning | Where they meet |
+|---|---|---|
+| Offensive security and web app testing | How LLMs actually work under the hood | Prompt injection and LLM app vulnerabilities |
+| Burp Suite, nmap, Wireshark | Applied AI with Python | AI-assisted recon and security tooling |
+| Hack The Box and TryHackMe labs | Building projects with LLMs | Thinking like an attacker about AI systems |
+
+> *The best way to secure a system is to understand how it breaks. AI systems are no exception.*
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Security%20%C3%97%20AI-8B5CF6?style=for-the-badge&labelColor=1a1a1a"/>
+
+</div>
